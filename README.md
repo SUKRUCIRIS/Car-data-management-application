@@ -1,2 +1,2 @@
-# Car-data-management-application
+# Car data management application
 One of my school projects
